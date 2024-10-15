@@ -10,7 +10,8 @@ The project utilizes Angular's `HttpClient` for data fetching and two-way data b
  * Angular (latest version) 
  * TypeScript 
  * HTML/CSS 
- * Bootstrap (for styling) 
+ * Bootstrap (for styling)
+ * Jquery
  
  ## Getting Started 
  
